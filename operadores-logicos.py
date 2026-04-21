@@ -15,4 +15,4 @@ print("OR")
 print(True or True)   # True  (Al menos uno de los valores es True, resultado True)
 print(True or False)  # True  (Al menos uno de los valores es True, resultado True)
 print(False or True)  # True  (Al menos uno de los valores es True, resultado True)
-print(False or False) # False (Ambos valores son False, resultado False)
+print(False or False) # False (Ambos valores son False, resultado False)asdadasd
